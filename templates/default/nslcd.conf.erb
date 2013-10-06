@@ -1,0 +1,10 @@
+uri <%= node['ldap']['uri'] %>
+base <%= node['ldap']['base'] %>
+scope <%= node['ldap']['scope'] %>
+base group <%= node['ldap']['base_group'] %>
+base passwd <%= node['ldap']['base_passwd'] %>
+base shadow <%= node['ldap']['base_shadow'] %>
+uid <%= node['ldap']['nslcd']['user'] %>
+gid <%= node['ldap']['nslcd']['group'] %>
+ssl <%= node['ldap']['ssl'] %>
+tls_cacertfile <%= node['ldap']['tls_cacertfile'] %>
