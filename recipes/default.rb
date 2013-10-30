@@ -2,7 +2,7 @@
 # Cookbook Name:: ssh-ldap
 # Recipe:: default
 #
-# Copyright 2013, OSU Open Source Lab
+# Copyright 2013, Oregon State University
 #
 # All rights reserved - Do Not Redistribute
 #

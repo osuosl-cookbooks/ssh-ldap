@@ -1,5 +1,5 @@
 name             'ssh-ldap'
-maintainer       'OSU Open Source Lab'
+maintainer       'Oregon State University'
 maintainer_email 'rudy@grigar.net'
 license          'All rights reserved'
 description      'Installs/Configures ssh-ldap'
